@@ -596,14 +596,14 @@ xdg-open ~/.jogos/scripts/run/PS1-run.sh
 ### Tibia
 #### Check out the tutorial on Youtube first:
 ###### Click on the picture ▼↓below↓▼ to access the YouTube tutorial:
-[![Tibia](https://raw.githubusercontent.com/felipefacundes/PS-en/master/imagens/tibia.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+[![Tibia](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/tibia.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Install Automatically:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS-en/master/nativos/tibia.sh)`
 #
 ### Albion Online MMORPG de fantasia medieval
 #### Check out the tutorial on Youtube first:
 ###### Click on the picture ▼↓below↓▼ to access the YouTube tutorial:
-[![Albion](https://raw.githubusercontent.com/felipefacundes/PS-en/master/imagens/albion.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+[![Albion](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/albion.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Required Dependencies:
 `flatpak sld sld2 qt5-webengine sndio`
 ##### Install via flatpak:
