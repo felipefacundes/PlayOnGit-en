@@ -255,7 +255,7 @@ xdg-open ~/.jogos/wineprefixes/Crysis3/drive_c/
 xdg-open ~/.jogos/scripts/run/Crysis3-run.sh
 ```
 #
-### GOG Galaxy (GOG Store) a loja da GOG
+### GOG Galaxy (GOG Store)s
 #### With DXVK Support - Check out the tutorial on Youtube first:
 ###### Click on the picture ▼↓below↓▼ to access the YouTube tutorial:
 [![DMC5](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/goggalaxy.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
@@ -351,7 +351,7 @@ xdg-open ~/.jogos/wineprefixes/eve-online/drive_c/
 xdg-open ~/.jogos/scripts/run/eve-online-run.sh
 ```
 #
-### Teste BETA (não funciona corretamente ainda) - Creative Destruction Battle Royale
+### BETA Test (doesn't work correctly yet) - Creative Destruction Battle Royale
 #### With DXVK Support - Check out the tutorial on Youtube first:
 ###### Click on the picture ▼↓below↓▼ to access the YouTube tutorial:
 [![Warframe](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/creativedestruction.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
@@ -387,7 +387,7 @@ xdg-open ~/.jogos/wineprefixes/PlanetCoaster/drive_c/
 xdg-open ~/.jogos/scripts/run/PlanetCoaster-run.sh
 ```
 #
-### A Tribute a Donkey Kong Country
+### A Tribute for Donkey Kong Country
 #### With D9VK Support - Check out the tutorial on Youtube first:
 ###### Click on the picture ▼↓below↓▼ to access the YouTube tutorial:
 [![TDKC](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/TDKC.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
@@ -435,7 +435,7 @@ xdg-open ~/.jogos/wineprefixes/steam-light/drive_c/
 xdg-open ~/.jogos/scripts/run/steam-light-run.sh
 ```
 #
-### Spore (controle a evolução de uma espécie)
+### Spore (control the evolution of a species)
 #### Check out the tutorial on Youtube first:
 ###### Click on the picture ▼↓below↓▼ to access the YouTube tutorial:
 [![Spore](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/spore.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
@@ -545,7 +545,7 @@ xdg-open ~/.jogos/wineprefixes/cs16/drive_c/
 xdg-open ~/.jogos/scripts/run/cs16-run.sh
 ```
 #
-### YUZU - Emulador de Nintendo Switch
+### YUZU - Nintendo Switch Emulator
 #### Check out the tutorial on Youtube first:
 ###### Click on the picture ▼↓below↓▼ to access the YouTube tutorial:
 [![Yuzu](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/yuzu.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
@@ -557,7 +557,7 @@ xdg-open ~/.jogos/wineprefixes/yuzu/drive_c/
 xdg-open ~/.jogos/scripts/run/yuzu-run.sh
 ```
 #
-### CEMU - Emulador de Nintendo Wii U
+### CEMU - Nintendo Wii U Emulator
 #### Check out the tutorial on Youtube first:
 ###### Click on the picture ▼↓below↓▼ to access the YouTube tutorial:
 [![CEMU](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/CEMU.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
@@ -569,7 +569,7 @@ xdg-open ~/.jogos/wineprefixes/CEMU/drive_c/
 xdg-open ~/.jogos/scripts/run/CEMU-run.sh
 ```
 #
-### PCSX2 - Emulador de PlayStation 2
+### PCSX2 - PlayStation 2 Emulator
 #### Check out the tutorial on Youtube first:
 ###### Click on the picture ▼↓below↓▼ to access the YouTube tutorial:
 [![PCSX2](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/PCSX2.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
@@ -581,7 +581,7 @@ xdg-open ~/.jogos/wineprefixes/PCSX2/drive_c/
 xdg-open ~/.jogos/scripts/run/PCSX2-run.sh
 ```
 #
-### PS1 - Emuladores de PlayStation 1 (ePSXe/PSX)
+### PS1 - PlayStation 1 Emulators (ePSXe/PSX)
 #### Check out the tutorial on Youtube first:
 ###### Click on the picture ▼↓below↓▼ to access the YouTube tutorial:
 [![PS1](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/PS1.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
@@ -592,7 +592,7 @@ xdg-open ~/.jogos/scripts/run/PCSX2-run.sh
 xdg-open ~/.jogos/wineprefixes/PS1/drive_c/
 xdg-open ~/.jogos/scripts/run/PS1-run.sh
 ```
-# Vamos aos Jogos Nativos:
+# Let's go to the Native Games:
 ### Tibia
 #### Check out the tutorial on Youtube first:
 ###### Click on the picture ▼↓below↓▼ to access the YouTube tutorial:
@@ -600,7 +600,7 @@ xdg-open ~/.jogos/scripts/run/PS1-run.sh
 ##### Install Automatically:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS-en/master/nativos/tibia.sh)`
 #
-### Albion Online MMORPG de fantasia medieval
+### Albion Online Medieval Fantasy MMORPG
 #### Check out the tutorial on Youtube first:
 ###### Click on the picture ▼↓below↓▼ to access the YouTube tutorial:
 [![Albion](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/albion.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
