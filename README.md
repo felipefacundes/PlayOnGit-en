@@ -476,7 +476,7 @@ xdg-open ~/.jogos/scripts/run/flatout2-run.sh
 ###### Click on the picture ▼↓below↓▼ to access the YouTube tutorial:
 [![Minecraft](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/minecraft.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Dependencies:
-`Para rodar esse jogo você precisará do jre8-openjdk (OpenJDK 1.8) e java-openjfx`
+`To run this game you will need jre8-openjdk (OpenJDK 1.8) and java-openjfx`
 ##### Install Automatically:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS-en/master/nativos/minecraft.sh)`
 ###### Optional for anyone who wants to make changes:
