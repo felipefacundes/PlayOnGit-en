@@ -12,7 +12,7 @@
 ### [READ](https://github.com/felipefacundes/dicas/blob/master/README.md)! First: install due dependencies. Boost performance with +50+ FPS - enable Esync. Click [on here](https://github.com/felipefacundes/dicas/blob/master/README.md) for [read](https://github.com/felipefacundes/dicas/blob/master/README.md) more.
 
 # Let's go to the games:
-[![Installation guide](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/manual_de_instalac-en.png)](https://github.com/felipefacundes/dicas/blob/master/instalar.md)
+[![Installation guide](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/manual_de_instalac-en.png)](https://github.com/felipefacundes/dicas/blob/master/install.md)
 ### 48 games have been posted on PlayOnGit. Search your game with Ctrl F in your browser.
 #
 ### Control - EpicGamesStore
@@ -319,7 +319,7 @@ xdg-open ~/.jogos/scripts/run/SRIV-run.sh
 #### Check out the tutorial on Youtube first:
 ###### Click on the picture ▼↓below↓▼ to access the YouTube tutorial:
 [![SASRT](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/SASRT.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
-##### Instalar automaticamente:
+##### Install Automatically:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS-en/master/SASRT.sh)`
 ###### Optional for anyone who wants to make changes:
 ```bash
