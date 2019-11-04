@@ -9,7 +9,7 @@
 ###### [Site](https://linuxgamers.github.io) : https://linuxgamers.github.io/
 ##### License: GPLv3
 
-### [READ](https://github.com/felipefacundes/dicas/blob/master/README.md)! First: install due dependencies. Boost performance with +50+ FPS - enable Esync. Click [on here](https://github.com/felipefacundes/dicas/blob/master/README.md) for [ler](https://github.com/felipefacundes/dicas/blob/master/README.md) more.
+### [READ](https://github.com/felipefacundes/dicas/blob/master/README.md)! First: install due dependencies. Boost performance with +50+ FPS - enable Esync. Click [on here](https://github.com/felipefacundes/dicas/blob/master/README.md) for [read](https://github.com/felipefacundes/dicas/blob/master/README.md) more.
 
 # Let's go to the games:
 [![Installation guide](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/manual_de_instalac-en.png)](https://github.com/felipefacundes/dicas/blob/master/instalar.md)
