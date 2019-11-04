@@ -12,7 +12,7 @@
 ### [READ](https://github.com/felipefacundes/dicas/blob/master/README.md)! First: install due dependencies. Boost performance with +50+ FPS - enable Esync. Click [on here](https://github.com/felipefacundes/dicas/blob/master/README.md) for [ler](https://github.com/felipefacundes/dicas/blob/master/README.md) more.
 
 # Let's go to the games:
-[![Installation guide](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/manual_de_instalac.png)](https://github.com/felipefacundes/dicas/blob/master/instalar.md)
+[![Installation guide](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/manual_de_instalac-en.png)](https://github.com/felipefacundes/dicas/blob/master/instalar.md)
 ### 48 games have been posted on PlayOnGit. Search your game with Ctrl F in your browser.
 #
 ### Control - EpicGamesStore
