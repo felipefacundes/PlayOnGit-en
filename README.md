@@ -1,7 +1,7 @@
 [![PlayOnGit](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/PlayOnGit.png)](https://github.com/felipefacundes/dicas/blob/master/PlayOnGit.md)
 # PlayOnGit 🕹
 ##### Content updated on 11/04/2019
-#### Start your Games straight from the start menu, WITHOUT needing Playonlinux, Proton or Lutris, and performing much better and better.
+#### Launch your games directly from the start menu, with excellent performance. 
 ###### Created by Felipe Facundes
 ###### Group of [Telegram](https://t.me/winehq_linux) 切, to request new games inclusion: https://t.me/winehq_linux
 ###### Channel [Telegram](https://t.me/PlayOnGit) 切: https://t.me/PlayOnGit
